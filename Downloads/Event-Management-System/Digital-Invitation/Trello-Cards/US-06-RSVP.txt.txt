@@ -1,0 +1,19 @@
+Card ID: US-06
+
+Card Title:
+RSVP Tracking
+
+Assigned To:
+Jarin Tasnim
+
+User Story:
+As an Organizer, I want to track RSVP responses so that I can monitor guest participation.
+
+Description:
+Design the RSVP Tracking UI for the Event Management System.
+
+Deliverable:
+Figma UI design/prototype.
+
+Figma Link:
+https://www.figma.com/design/lXLD4lrbVumUQ0tClzcwox/Event-Management-System?node-id=53-63&t=XOXAUYpyTW5MYPFk-1
