@@ -1,0 +1,19 @@
+Card ID: US-03
+
+Task:
+Send Digital Invitations
+
+Assigned To:
+Jarin Tasnim
+
+User Story:
+As an Organizer, I want to send digital invitations to guests so that they can receive event information and respond.
+
+Description:
+Design the Digital Invitation UI for the Event Management System.
+
+Deliverable:
+Figma UI design/prototype.
+
+Figma:
+https://www.figma.com/design/lXLD4lrbVumUQ0tClzcwox/Event-Management-System?node-id=53-63&t=XOXAUYpyTW5MYPFk-1
