@@ -1,7 +1,7 @@
 Card ID: US-07
 
 Card Title:
-Event Creation Form (valid)
+Create & Edit Event Form — Mohona
 
 Assigned To:
 Mohona
@@ -13,7 +13,7 @@ Description:
 Test the event creation form: enter title, select category, enter venue, and publish.
 
 Original Trello Card:
-https://trello.com/c/nu7f59U6/6-event-creation-form-valid
+https://trello.com/c/nu7f59U6/6-create-edit-event-form-mohona
 
 Figma:
 https://www.figma.com/design/ZRzIKaSiy5cKsSOnv9bXa2/My-Main-Prototype?node-id=0-1&t=rc2n3vq37t4wys3n-1

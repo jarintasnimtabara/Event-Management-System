@@ -1,7 +1,7 @@
 Card ID: US-08
 
 Card Title:
-Guest Management Interface
+Guest List Management Screen — Mohona
 
 Assigned To:
 Mohona
@@ -13,7 +13,7 @@ Description:
 Test the guest list search box: enter a guest's name and confirm the table filters correctly.
 
 Original Trello Card:
-https://trello.com/c/THjcd6kl/7-guest-management-interface
+https://trello.com/c/THjcd6kI/7-guest-list-management-screen-mohona
 
 Figma:
 https://www.figma.com/design/ZRzIKaSiy5cKsSOnv9bXa2/My-Main-Prototype?node-id=0-1&t=rc2n3vq37t4wys3n-1
