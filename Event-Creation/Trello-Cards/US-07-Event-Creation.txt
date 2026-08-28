@@ -10,7 +10,7 @@ User Story:
 As an Organizer, I want to create and publish an event with valid details (title, category, venue) so that guests can see and register for it.
 
 Description:
-Test the event creation form: enter title, select category, enter venue, and publish.
+This is the form organizers use to add a new event. It has fields for the event title, category, date, time, venue, capacity, and a short description, plus a banner image upload. Once everything is filled in, clicking Publish Event makes it live for guests.
 
 Original Trello Card:
 https://trello.com/c/nu7f59U6/6-create-edit-event-form-mohona

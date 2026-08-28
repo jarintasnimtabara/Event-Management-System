@@ -10,7 +10,7 @@ User Story:
 As an Organizer, I want to search the guest list by name so that I can quickly find and manage a specific guest's details.
 
 Description:
-Test the guest list search box: enter a guest's name and confirm the table filters correctly.
+This screen shows the full guest list for an event in a table — name, email, category, whether the invite was sent, and their RSVP status. Organizers can search for a guest by name, filter the list, add a new guest, or edit/remove/message an existing one.
 
 Original Trello Card:
 https://trello.com/c/THjcd6kI/7-guest-list-management-screen-mohona
