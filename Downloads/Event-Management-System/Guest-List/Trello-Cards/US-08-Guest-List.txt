@@ -1,0 +1,19 @@
+Card ID: US-08
+
+Card Title:
+Guest Management Interface
+
+Assigned To:
+Mohona
+
+User Story:
+As an Organizer, I want to search the guest list by name so that I can quickly find and manage a specific guest's details.
+
+Description:
+Test the guest list search box: enter a guest's name and confirm the table filters correctly.
+
+Original Trello Card:
+https://trello.com/c/THjcd6kl/7-guest-management-interface
+
+Figma:
+https://www.figma.com/design/ZRzIKaSiy5cKsSOnv9bXa2/My-Main-Prototype?node-id=0-1&t=rc2n3vq37t4wys3n-1

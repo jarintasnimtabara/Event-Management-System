@@ -1,0 +1,19 @@
+Card ID: US-07
+
+Card Title:
+Event Creation Form (valid)
+
+Assigned To:
+Mohona
+
+User Story:
+As an Organizer, I want to create and publish an event with valid details (title, category, venue) so that guests can see and register for it.
+
+Description:
+Test the event creation form: enter title, select category, enter venue, and publish.
+
+Original Trello Card:
+https://trello.com/c/nu7f59U6/6-event-creation-form-valid
+
+Figma:
+https://www.figma.com/design/ZRzIKaSiy5cKsSOnv9bXa2/My-Main-Prototype?node-id=0-1&t=rc2n3vq37t4wys3n-1
