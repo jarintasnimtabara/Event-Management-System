@@ -1,13 +1,22 @@
-Card ID: US-07
+Card ID: US-01
 
 Card Title:
 Create & Edit Event Form — Mohona
 
 Assigned To:
-Mohona
+Mohona (Organizer)
+
+Priority:
+High
 
 User Story:
-As an Organizer, I want to create and publish an event with valid details (title, category, venue) so that guests can see and register for it.
+As an Organizer, I want to create an event so that I can start inviting guests and planning logistics.
+
+Functional Requirement:
+FR-01 — The system shall allow an Organizer to create and manage events.
+
+Linked Test Case:
+TC_3
 
 Description:
 This is the form organizers use to add a new event. It has fields for the event title, category, date, time, venue, capacity, and a short description, plus a banner image upload. Once everything is filled in, clicking Publish Event makes it live for guests.

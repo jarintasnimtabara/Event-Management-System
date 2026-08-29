@@ -1,13 +1,22 @@
-Card ID: US-08
+Card ID: US-02
 
 Card Title:
 Guest List Management Screen — Mohona
 
 Assigned To:
-Mohona
+Mohona (Organizer)
+
+Priority:
+High
 
 User Story:
-As an Organizer, I want to search the guest list by name so that I can quickly find and manage a specific guest's details.
+As an Organizer, I want to manage my guest list so that I can keep track of who is invited.
+
+Functional Requirement:
+FR-02 — The system shall allow an Organizer to add, edit, and remove guests.
+
+Linked Test Case:
+TC_4
 
 Description:
 This screen shows the full guest list for an event in a table — name, email, category, whether the invite was sent, and their RSVP status. Organizers can search for a guest by name, filter the list, add a new guest, or edit/remove/message an existing one.
